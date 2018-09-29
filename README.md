@@ -1,5 +1,4 @@
-# Atividade
-Festa Junina
+# Aplicação
 
 Haverá uma festa junina e temos uma lista de meninos e meninas para dançar quadrilha! As listão estão assim:
 
