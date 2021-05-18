@@ -3,11 +3,11 @@
 ### Description
 
 There will be a June party and we have a list of boys and girls to dance the gang! The lists are like this:
-
+```
 let boys = ["Bento", "Zé", "Chico", "Jão"];
 
 let girls = ["Maria", "Josefa", "Florentina", "Francisca"];
-
+```
 You must <b>print on the console</b> all the possibilities for couples to dance the gang.
 
 Show in the end how many couples were formed.
